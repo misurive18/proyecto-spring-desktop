@@ -1,4 +1,4 @@
-package com.mijasoftcode.proyecto_spring_desktop;
+package com.mijasoftcode.proyectospringdesktop.test;
 
 import static org.junit.Assert.assertTrue;
 
